@@ -5,7 +5,8 @@
  * building robust, powerful web applications using React + Laravel.
  */
 
-require('./bootstrap');
+ 
+import './bootstrap';
 
 /**
  * Next, we will create a fresh React component instance and attach it to
@@ -13,4 +14,9 @@ require('./bootstrap');
  * or customize the JavaScript scaffolding to fit your unique needs.
  */
 
-require('./components/Example');
+import React, { Component } from 'react';
+import ReactDOM from 'react-dom';
+import Example from "./components/Example";
+
+
+ReactDOM.render(<Example />, document.getElementById('App'));
