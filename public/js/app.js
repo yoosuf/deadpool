@@ -57563,7 +57563,7 @@ var Example = function (_Component) {
                                 { className: "col-md-6" },
                                 __WEBPACK_IMPORTED_MODULE_0_react___default.a.createElement(
                                     "h2",
-                                    { "class": "country" },
+                                    { className: "country" },
                                     __WEBPACK_IMPORTED_MODULE_0_react___default.a.createElement(
                                         "span",
                                         null,
@@ -57571,7 +57571,7 @@ var Example = function (_Component) {
                                     ),
                                     __WEBPACK_IMPORTED_MODULE_0_react___default.a.createElement(
                                         "span",
-                                        { className: "panel-text" },
+                                        { className: "country-text" },
                                         "England"
                                     )
                                 ),
@@ -57583,16 +57583,35 @@ var Example = function (_Component) {
                                         null,
                                         __WEBPACK_IMPORTED_MODULE_0_react___default.a.createElement(
                                             "span",
-                                            { className: "panel-provider-image" },
-                                            __WEBPACK_IMPORTED_MODULE_0_react___default.a.createElement("img", { src: __webpack_require__(220), width: "25px" })
-                                        ),
-                                        __WEBPACK_IMPORTED_MODULE_0_react___default.a.createElement(
-                                            "span",
                                             { className: "panel-text" },
                                             __WEBPACK_IMPORTED_MODULE_0_react___default.a.createElement(
                                                 "span",
                                                 { className: "panel-title" },
                                                 "CEX"
+                                            )
+                                        ),
+                                        __WEBPACK_IMPORTED_MODULE_0_react___default.a.createElement(
+                                            "span",
+                                            { className: "pricing" },
+                                            __WEBPACK_IMPORTED_MODULE_0_react___default.a.createElement(
+                                                "p",
+                                                null,
+                                                "Buying price ",
+                                                __WEBPACK_IMPORTED_MODULE_0_react___default.a.createElement(
+                                                    "span",
+                                                    { className: "price" },
+                                                    "\xA350"
+                                                )
+                                            ),
+                                            __WEBPACK_IMPORTED_MODULE_0_react___default.a.createElement(
+                                                "p",
+                                                null,
+                                                "Selling price ",
+                                                __WEBPACK_IMPORTED_MODULE_0_react___default.a.createElement(
+                                                    "span",
+                                                    { className: "price" },
+                                                    "\xA350"
+                                                )
                                             )
                                         )
                                     )
@@ -57605,16 +57624,35 @@ var Example = function (_Component) {
                                         null,
                                         __WEBPACK_IMPORTED_MODULE_0_react___default.a.createElement(
                                             "span",
-                                            { className: "panel-provider-image" },
-                                            __WEBPACK_IMPORTED_MODULE_0_react___default.a.createElement("img", { src: __webpack_require__(221), width: "25px" })
-                                        ),
-                                        __WEBPACK_IMPORTED_MODULE_0_react___default.a.createElement(
-                                            "span",
                                             { className: "panel-text" },
                                             __WEBPACK_IMPORTED_MODULE_0_react___default.a.createElement(
                                                 "span",
                                                 { className: "panel-title" },
                                                 "CoinFlow"
+                                            )
+                                        ),
+                                        __WEBPACK_IMPORTED_MODULE_0_react___default.a.createElement(
+                                            "span",
+                                            { className: "pricing" },
+                                            __WEBPACK_IMPORTED_MODULE_0_react___default.a.createElement(
+                                                "p",
+                                                null,
+                                                "Buying price ",
+                                                __WEBPACK_IMPORTED_MODULE_0_react___default.a.createElement(
+                                                    "span",
+                                                    { className: "price" },
+                                                    "\xA350"
+                                                )
+                                            ),
+                                            __WEBPACK_IMPORTED_MODULE_0_react___default.a.createElement(
+                                                "p",
+                                                null,
+                                                "Selling price ",
+                                                __WEBPACK_IMPORTED_MODULE_0_react___default.a.createElement(
+                                                    "span",
+                                                    { className: "price" },
+                                                    "\xA350"
+                                                )
                                             )
                                         )
                                     )
@@ -57627,16 +57665,35 @@ var Example = function (_Component) {
                                         null,
                                         __WEBPACK_IMPORTED_MODULE_0_react___default.a.createElement(
                                             "span",
-                                            { className: "panel-provider-image" },
-                                            __WEBPACK_IMPORTED_MODULE_0_react___default.a.createElement("img", { src: __webpack_require__(222), width: "25px" })
-                                        ),
-                                        __WEBPACK_IMPORTED_MODULE_0_react___default.a.createElement(
-                                            "span",
                                             { className: "panel-text" },
                                             __WEBPACK_IMPORTED_MODULE_0_react___default.a.createElement(
                                                 "span",
                                                 { className: "panel-title" },
                                                 "Coinbase"
+                                            )
+                                        ),
+                                        __WEBPACK_IMPORTED_MODULE_0_react___default.a.createElement(
+                                            "span",
+                                            { className: "pricing" },
+                                            __WEBPACK_IMPORTED_MODULE_0_react___default.a.createElement(
+                                                "p",
+                                                null,
+                                                "Buying price ",
+                                                __WEBPACK_IMPORTED_MODULE_0_react___default.a.createElement(
+                                                    "span",
+                                                    { className: "price" },
+                                                    "\xA350"
+                                                )
+                                            ),
+                                            __WEBPACK_IMPORTED_MODULE_0_react___default.a.createElement(
+                                                "p",
+                                                null,
+                                                "Selling price ",
+                                                __WEBPACK_IMPORTED_MODULE_0_react___default.a.createElement(
+                                                    "span",
+                                                    { className: "price" },
+                                                    "\xA350"
+                                                )
                                             )
                                         )
                                     )
@@ -57647,7 +57704,7 @@ var Example = function (_Component) {
                                 { className: "col-md-6" },
                                 __WEBPACK_IMPORTED_MODULE_0_react___default.a.createElement(
                                     "h2",
-                                    { "class": "country" },
+                                    { className: "country" },
                                     __WEBPACK_IMPORTED_MODULE_0_react___default.a.createElement(
                                         "span",
                                         null,
@@ -57655,7 +57712,7 @@ var Example = function (_Component) {
                                     ),
                                     __WEBPACK_IMPORTED_MODULE_0_react___default.a.createElement(
                                         "span",
-                                        { className: "panel-text" },
+                                        { className: "country-text" },
                                         "India"
                                     )
                                 ),
@@ -57667,16 +57724,35 @@ var Example = function (_Component) {
                                         null,
                                         __WEBPACK_IMPORTED_MODULE_0_react___default.a.createElement(
                                             "span",
-                                            { className: "panel-provider-image" },
-                                            __WEBPACK_IMPORTED_MODULE_0_react___default.a.createElement("img", { src: __webpack_require__(224), width: "25px" })
-                                        ),
-                                        __WEBPACK_IMPORTED_MODULE_0_react___default.a.createElement(
-                                            "span",
                                             { className: "panel-text" },
                                             __WEBPACK_IMPORTED_MODULE_0_react___default.a.createElement(
                                                 "span",
                                                 { className: "panel-title" },
                                                 "CoinSecure"
+                                            )
+                                        ),
+                                        __WEBPACK_IMPORTED_MODULE_0_react___default.a.createElement(
+                                            "span",
+                                            { className: "pricing" },
+                                            __WEBPACK_IMPORTED_MODULE_0_react___default.a.createElement(
+                                                "p",
+                                                null,
+                                                "Buying price ",
+                                                __WEBPACK_IMPORTED_MODULE_0_react___default.a.createElement(
+                                                    "span",
+                                                    { className: "price" },
+                                                    "\xA350"
+                                                )
+                                            ),
+                                            __WEBPACK_IMPORTED_MODULE_0_react___default.a.createElement(
+                                                "p",
+                                                null,
+                                                "Selling price ",
+                                                __WEBPACK_IMPORTED_MODULE_0_react___default.a.createElement(
+                                                    "span",
+                                                    { className: "price" },
+                                                    "\xA350"
+                                                )
                                             )
                                         )
                                     )
@@ -57701,36 +57777,16 @@ var Example = function (_Component) {
 module.exports = "/images/eng.png?143ff0b8209b1cd0bea4a902e40fb8d1";
 
 /***/ }),
-/* 220 */
-/***/ (function(module, exports) {
-
-module.exports = "/images/cex.png?983c8f7f8a324f87eaceae9ef911961e";
-
-/***/ }),
-/* 221 */
-/***/ (function(module, exports) {
-
-module.exports = "/images/cf.png?eacecb441c9e3fa44ee57eb82b07dcfa";
-
-/***/ }),
-/* 222 */
-/***/ (function(module, exports) {
-
-module.exports = "/images/cb.png?1d494ac737b751fd9804bdb5e5baf348";
-
-/***/ }),
+/* 220 */,
+/* 221 */,
+/* 222 */,
 /* 223 */
 /***/ (function(module, exports) {
 
 module.exports = "/images/inr.png?27946c3438d2f4d434d0f46169d80471";
 
 /***/ }),
-/* 224 */
-/***/ (function(module, exports) {
-
-module.exports = "/images/cs.png?a5eedf80afe0db1d074ddfac621e004d";
-
-/***/ }),
+/* 224 */,
 /* 225 */
 /***/ (function(module, exports) {
 
