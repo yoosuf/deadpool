@@ -8,7 +8,7 @@ class Example extends Component {
                     <div className="col-md-12">
                         <div className="row">
                             <div className="col-md-6">
-                                <h2>
+                                <h2 class="country">
                                     <span><img src={require('../../img/eng.png')} width="50px" /></span>
                                     <span className="panel-text">England</span>
                                 </h2>
@@ -30,10 +30,19 @@ class Example extends Component {
                                         </span>
                                     </h4>
                                 </div>
+
+                                <div className="panel-blue m-t-xs">
+                                    <h4>
+                                        <span className="panel-provider-image"><img src={require('../../img/cb.png')} width="25px" /></span>
+                                        <span className="panel-text">
+                                            <span className="panel-title">Coinbase</span>
+                                        </span>
+                                    </h4>
+                                </div>
                             </div>
 
                             <div className="col-md-6">
-                                <h2>
+                                <h2 class="country">
                                     <span><img src={require('../../img/inr.png')} width="50px" /></span>
                                     <span className="panel-text">India</span>
                                 </h2>
